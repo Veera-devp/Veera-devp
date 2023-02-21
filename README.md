@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/veeraraghavasa1" target="blank"><img src="https://img.shields.io/twitter/follow/veeraraghavasa1?logo=twitter&style=for-the-badge" alt="veeraraghavasa1" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced ecommerce webpage using Django**
+- 🔭 I’m currently working on **Advanced Lung cancer histopathology image detection**
 
-- 👯 I’m looking to collaborate on **Lung cancer Histopathology image detection**
+- 👯 I’m looking to collaborate on **A big-data Project using different optimization and Visualization**
 
 - 📫 How to reach me **saikam.raghava@gmail.com**
 
